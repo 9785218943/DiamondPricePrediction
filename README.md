@@ -1,1 +1,1 @@
-## Machine Learning [roject]
+## Machine Learning [Project]
